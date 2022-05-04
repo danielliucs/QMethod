@@ -1,2 +1,3 @@
 # QMethod
-This Repository is dedicated to my own self-learning of another reinforcement learning method called Q-learning
+
+Refer to issues->images for results of two models
